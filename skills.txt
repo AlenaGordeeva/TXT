@@ -1,0 +1,2 @@
+Hard skills:
+ "SQL", "API", "Charles", "Dev Tools", "Terminal"
