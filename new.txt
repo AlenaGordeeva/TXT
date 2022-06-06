@@ -1,0 +1,5 @@
+Name - Alena,
+Surname - Gordeeva,
+Age - 45,
+Pets - 1,
+Salary - 100000
